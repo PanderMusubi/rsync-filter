@@ -1,79 +1,100 @@
-# too large and other backup
-blk0001.dat
-blkindex.dat
-Desktop
-Downloads
-Dropbox
+# Large and backed up in another way
 media
 Music
 Pictures
 Public
-Templates
-Ubuntu One
-ubuntuone
-Videos
-Webcam
-# too large and/or system specific
-argouml.log
-app.ap_
-app.apk
-app-unsigned.apk
+belgium.osm.pbf
+netherlands.osm.pbf
+# System
+.cache
+.dbus
+.dmrc
+Downloads
+.fontconfig
+.gconf
+.gnome2_private
+.gnome2
+.gvfs
+.ICEauthority
+.local
+Maildir
+.pam_environment
+.pki
+.pulse
+.pulse-cookie
+.ssh
+.thumbnails
+Trash
+.Xauthority
+.xsession-errors
+.xsession-errors.old
+# Miscellaneous
+.adobe
+.lesshst
+.java
+.macromedia
+.viminfo
+# Mozilla
+adblockplus/patterns-backup1.ini
+adblockplus/patterns-backup2.ini
+adblockplus/patterns-backup3.ini
+adblockplus/patterns-backup4.ini
+adblockplus/patterns-backup5.ini
+bookmarkbackups
 Cache
-cache
-Cache.Trash
 Crash Reports
+.parentlock
+urlclassifier3.sqlite
+TestPilotErrorLog.log
+# Firefox web browser
+chatzilla/ceip/current.log
+extensions.log
+OfflineCache
+ScrapBook/backup
+startupCache
+xmarks.log
+# Thunderbird email and news application
+# WARNING: msgFilterRules.dat in ImapMail is not synced!
 global-messages-db.sqlite
 ImapMail
-libicudata.so.40
-libicui18n.so.40
-libphp5.so
-Maildir
-urlclassifier3.sqlite
-userdata.img
-userdata-qemu.img
-xmarks.log
-.adobe
-.biewrc
-.cache
-.config.lck
-.dbus
+calendar-data/cache.sqlite
+calendar-data/backup
+# GNU Bazaar
+.bzr.log
+# Bitcoin digital currrency
 .bitcoin/blk0001.dat
+.bitcoin/blk0002.dat
+.bitcoin/blk0003.dat
+.bitcoin/blk0004.dat
 .bitcoin/blkindex.dat
+.bitcoin/database
+.bitcoin/db.log
+.bitcoin/debug.log
 .bitcoin/.lock
+# Chromium web broswer
+Cache
+chromium/Default/Bookmarks.bak
+.config/chromium/Safe Browsing Bloom
+.config/chromium/Safe Browsing Bloom Filter 2
+# Dropbox backup client
+Dropbox
 .dropbox
 .dropbox-dist
 .dropbox-dist-new
-.esd_auth
-.fontconfig
-.gconfd/saved_state
-.gimp-2.6
-.gksu.lock
+# Ubuntu One backup client
+Ubuntu One
+# Skype
+.Skype/shared.lck
+# Vuze bittorrent client
+.azureus
+# Generic graphics library
+.gegl-0.0
+# GIMP
+.gimp-2.6/tmp
+.gimp-2.8/tmp
+# Inkscape
+.config/inkscape/extension-errors.log
+# Gstreamer
 .gstreamer-0.10
-.gvfs
-.history
-.ICEauthority
-.java
-.local
-.macromedia
-.mcop
-.mcoprc
-.mission-control
-.netx
-.openoffice.org
-.parentlock
-.pulse
-.pulse-cookie
-.qt
-.shared.lck
-.ssh
-.sudo_as_admin_successful
-.themes
-.thumbnails
-.Trash
-.vim/.netrwhist
-.viminfo
-.Xauthority
-.xinput.d
-.xsession-errors
-.xsession-errors.old
-.wine
+# ArgoUML
+.argouml/argouml.log
